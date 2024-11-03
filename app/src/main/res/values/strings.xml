@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daftar Buku</string>
+    <string name="nama_buku">Nama Buku</string>
+    <string name="desc">desc</string>
+    <string name="detail">Detail Buku</string>
+    <string name="saya">Kemas Khairunsyah</string>
+    <string name="email">khairunsyah8935@gmail.com</string>
+
+</resources>
